@@ -34,7 +34,7 @@ Browse the topics above and explore an example that interests you. Each example 
 
 ## Articles & Tutorials
 
-Explore our technical articles at [AIPractix](https://aipractix.com).
+Explore our technical articles at [AIPractix Blog](https://aipractix.com/blog).
 
 ## Contributing
 
